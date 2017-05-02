@@ -1,0 +1,54 @@
+input{
+  width:30px;
+  height:15px;
+  font-size:16px;
+}
+.evenly{
+  display: flex;
+  justify-content: space-around;
+}
+
+.del_form{
+     margin-left:300px;
+     margin-top:-200px;
+     margin-bottom:20px;
+}
+.result{
+     height:800px; 
+     width:1000px; 
+     background-color:#5BAC8F;
+     margin-left:350px;
+}
+table, td, th {
+     text-align:justify;
+}
+
+table {
+    border-collapse: collapse;
+    width: 900px;
+    margin-left:300px;  
+    margin-top:20px;
+}
+.button2{
+     margin-left:100px;
+     margin-top:-200px;
+     margin-bottom:20px;
+     border-radius:10px;
+     border-style: solid;
+}
+.button2:hover{
+     height:35px;
+     width:120px;
+     border:#4CAF50;
+     font-size:18px;
+}
+.button2:focus{
+     height:35px;
+     width:120px;
+     border:#4CAF50;
+     font-size:18px;
+}
+.update{
+     height:30px;
+     width:220px;
+}
